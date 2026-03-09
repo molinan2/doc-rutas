@@ -9,7 +9,7 @@ Total: 239 km (5h 10min).
 Ruta: 115 km (2h 25min)
 [https://maps.app.goo.gl/km197oZmDmsRnZhy8](https://maps.app.goo.gl/km197oZmDmsRnZhy8)
 
-- 🏁 La Bòbila (Gavà)
+- 🏁 BP La Bòbila (Gavà)
 - Begues
 - ⛽️ bonÀrea (Sant Cugat Sesgarrigues)
 - Guardiola de Font-Rubí
