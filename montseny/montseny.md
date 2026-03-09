@@ -7,7 +7,7 @@ Total: 187 km (4h 45min).
 ### Parte 1
 
 Ruta: 53 km (1h 25min)
-https://maps.app.goo.gl/WT4SDvdaMN81Ca7y7
+[https://maps.app.goo.gl/WT4SDvdaMN81Ca7y7](https://maps.app.goo.gl/WT4SDvdaMN81Ca7y7)
 
 - ⛽️ Àrea de Serveis Temps Lliure Q8 (Terrassa)
 - Castellar del Vallès
@@ -23,7 +23,7 @@ Parada opcional en Sant Miquel del Fai (parking oficial con reserva, cerrado has
 ### Parte 2
 
 Ruta: 134 km (3h 20min)
-https://maps.app.goo.gl/y9D4wXXRGgdLZd2A9
+[https://maps.app.goo.gl/y9D4wXXRGgdLZd2A9](https://maps.app.goo.gl/y9D4wXXRGgdLZd2A9)
 
 - 🍔 El Revolt (Sant Quirze Safaja)
 - Centelles

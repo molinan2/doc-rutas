@@ -7,7 +7,7 @@ Total: 203 km (4h 30min) sin las partes opcionales.
 ### Parte 1
 
 Ruta: 53 km (1h 25min)
-https://maps.app.goo.gl/2X2woED5DZTHCrR69
+[https://maps.app.goo.gl/2X2woED5DZTHCrR69](https://maps.app.goo.gl/2X2woED5DZTHCrR69)
 
 - 🏁 Àrea de Serveis Temps Lliure Q8 (Terrassa)
 - Castellar del Vallès
@@ -22,7 +22,7 @@ Parada opcional en Sant Miquel del Fai para visitar el monasterio y/o sus alrede
 ### Parte 2
 
 Ruta: 23 km (26 min)
-https://maps.app.goo.gl/PN2Gsphv4ihNYGVY6
+[https://maps.app.goo.gl/PN2Gsphv4ihNYGVY6](https://maps.app.goo.gl/PN2Gsphv4ihNYGVY6)
 
 - 🍔 Restaurant El Revolt
 - Centelles
@@ -35,7 +35,7 @@ Travesía breve hasta Esclat, donde repostamos todos para iniciar la Parte larga
 ### Parte 3
 
 Ruta: 139 km (3h 18min)
-https://maps.app.goo.gl/BdxwTrr4gTYoJxSy6
+[https://maps.app.goo.gl/BdxwTrr4gTYoJxSy6](https://maps.app.goo.gl/BdxwTrr4gTYoJxSy6)
 
 - ⛽️ Esclat
 - San Martín Sescorts
@@ -56,7 +56,7 @@ Parada opcional en Rupit (parking de pago) para ver el pueblo y su puente colgan
 ### Parte 4 (Opcional)
 
 Ruta: 53 km (1h 40min)
-https://maps.app.goo.gl/qqpW8yHWmj6N2sFs5
+[https://maps.app.goo.gl/qqpW8yHWmj6N2sFs5](https://maps.app.goo.gl/qqpW8yHWmj6N2sFs5)
 
 - 🅿️ Tavertet
 - Rupit
@@ -73,7 +73,7 @@ Sólo para aventureros/as. Carretera estrecha y boscosa, no recomendable de noch
 ### Parte 3 (Alternativa)
 
 Ruta: 131 km (3h 38min)
-https://maps.app.goo.gl/uqNV995byocxDQGE9
+[https://maps.app.goo.gl/uqNV995byocxDQGE9](https://maps.app.goo.gl/uqNV995byocxDQGE9)
 
 - ⛽️ Esclat
 - Folgueroles

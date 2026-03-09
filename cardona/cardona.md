@@ -7,7 +7,7 @@ Total: 194 km (3h 47min).
 ### Parte 1
 
 Ruta: 79.2 km (1h 31min)
-https://maps.app.goo.gl/vCdCGGZaqz85DCAZ7
+[https://maps.app.goo.gl/vCdCGGZaqz85DCAZ7](https://maps.app.goo.gl/vCdCGGZaqz85DCAZ7)
 
 - 🏁 Estació de servei Cepsa (Vilafranca del Penedès)
 - Sant Quintí de Mediona
@@ -23,7 +23,7 @@ Parada opcional en el Mirador dels Molins (espacio para 10 motos pero no muchas 
 ### Parte 2
 
 Ruta: 115 km (2h 16min)
-https://maps.app.goo.gl/Bj4BwhU1Ndsi5bwc6
+[https://maps.app.goo.gl/Bj4BwhU1Ndsi5bwc6](https://maps.app.goo.gl/Bj4BwhU1Ndsi5bwc6)
 
 - 🍔 El Cafè del Casal (Calaf)
 - Sant Pere de l'Arç

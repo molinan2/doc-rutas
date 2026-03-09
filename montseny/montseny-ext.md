@@ -7,7 +7,7 @@ Total: 292 km (7h 24min).
 ### Parte 1
 
 Ruta: 53 km (1h 25min)
-https://maps.app.goo.gl/WT4SDvdaMN81Ca7y7
+[https://maps.app.goo.gl/WT4SDvdaMN81Ca7y7](https://maps.app.goo.gl/WT4SDvdaMN81Ca7y7)
 
 - ⛽️ Àrea de Serveis Temps Lliure Q8 (Terrassa)
 - Castellar del Vallès
@@ -23,7 +23,7 @@ Parada opcional en Sant Miquel del Fai (parking oficial con reserva, cerrado has
 ### Parte 2
 
 Ruta: 85 km (2h 3min)
-https://maps.app.goo.gl/CL2UEvgEBLVXyDpm7
+[https://maps.app.goo.gl/CL2UEvgEBLVXyDpm7](https://maps.app.goo.gl/CL2UEvgEBLVXyDpm7)
 
 - 🍔 El Revolt (Sant Quirze Safaja)
 - Centelles
@@ -40,7 +40,7 @@ Desvío en Masvidal antes de Viladrau, hacia Bojons por carretera estrecha y bon
 ### Parte 3
 
 Ruta: 110 km (2h 46min)
-https://maps.app.goo.gl/ro618NT1GhC8eCUW8
+[https://maps.app.goo.gl/ro618NT1GhC8eCUW8](https://maps.app.goo.gl/ro618NT1GhC8eCUW8)
 
 - ⛽️ Esclatoil Anglès (Anglès)
 - Santa Coloma de Farners
@@ -57,7 +57,7 @@ Curvas infinitas hasta antes de Viladrau. Baja a Campins para volver a subir por
 ### Parte 4
 
 Ruta: 44 km (1h 10min)
-https://maps.app.goo.gl/7xdV82FggBaSXiK76
+[https://maps.app.goo.gl/7xdV82FggBaSXiK76](https://maps.app.goo.gl/7xdV82FggBaSXiK76)
 
 - 🅿️ Turó de l'Home
 - Montseny

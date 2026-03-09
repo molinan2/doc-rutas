@@ -7,7 +7,7 @@ Total: 239 km (5h 10min).
 # Parte 1
 
 Ruta: 115 km (2h 25min)
-https://maps.app.goo.gl/km197oZmDmsRnZhy8
+[https://maps.app.goo.gl/km197oZmDmsRnZhy8](https://maps.app.goo.gl/km197oZmDmsRnZhy8)
 
 - 🏁 La Bòbila (Gavà)
 - Begues
@@ -26,7 +26,7 @@ Arranque desde la BP de Gavà. Curvas de Font-Rubí hasta La Llacuna. Parada opc
 # Parte 2
 
 Ruta: 124 km (2h 45min)
-https://maps.app.goo.gl/uhWmRBuUoM24Uo2b9
+[https://maps.app.goo.gl/uhWmRBuUoM24Uo2b9](https://maps.app.goo.gl/uhWmRBuUoM24Uo2b9)
 
 - 🍔 El Cafè del Casal (Calaf)
 - Pinós
