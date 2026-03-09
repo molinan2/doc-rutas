@@ -13,7 +13,7 @@ https://maps.app.goo.gl/2X2woED5DZTHCrR69
 - Castellar del Vallès
 - Sant Llorenç Savall
 - 🅿️ Sant Miquel del Fai
-- 🍔 Restaurant El Revolt
+- 🍔 El Revolt (Sant Quirze Safaja)
 
 Parada opcional en Sant Miquel del Fai para visitar el monasterio y/o sus alrededores. Parking oficial con reserva, cerrado hasta 20 de Marzo. Hay espacio para aparcar fuera en gravilla, si los coches lo permiten. Carretera estrecha y muy bonita.
 
@@ -34,8 +34,8 @@ Travesía breve hasta Esclat, donde repostamos todos para iniciar la Parte larga
 
 ### Parte 3
 
-Ruta: 127 km (2h 47min)
-https://maps.app.goo.gl/zt6ZX43cWhkiVgVg6
+Ruta: 139 km (3h 18min)
+https://maps.app.goo.gl/BdxwTrr4gTYoJxSy6
 
 - ⛽️ Esclat
 - San Martín Sescorts
@@ -43,11 +43,11 @@ https://maps.app.goo.gl/zt6ZX43cWhkiVgVg6
 - 🅿️ Mirador El Far
 - Sant Esteve d'en Bas
 - Collada de Bracons
-- Sant Vicenç de Torelló
+- 🅿️ Santuari de Bellmunt
 - San Martín Sescorts
 - 🅿️ Tavertet
 
-Parada opcional en Rupit (parking de pago) para ver el pueblo y su puente colgante. Parada opcional en Mirador El Far. Parada opcional (parking de pago) en el mirador de Tavertet para terminar la ruta.
+Parada opcional en Rupit (parking de pago) para ver el pueblo y su puente colgante. Parada opcional en Mirador El Far. Parada opcional en el Santuari de Bellmunt. Parada opcional (parking de pago) en el mirador de Tavertet para terminar la ruta.
 
 <img src='./parte-3.png' width='400'>
 
@@ -72,7 +72,7 @@ Sólo para aventureros/as. Carretera estrecha y boscosa, no recomendable de noch
 
 ### Parte 3 (Alternativa)
 
-Ruta: 118 km (3h 5min)
+Ruta: 131 km (3h 38min)
 https://maps.app.goo.gl/uqNV995byocxDQGE9
 
 - ⛽️ Esclat
@@ -82,7 +82,7 @@ https://maps.app.goo.gl/uqNV995byocxDQGE9
 - 🅿️ Mirador El Far
 - Sant Esteve d'en Bas
 - Collada de Bracons
-- Sant Vicenç de Torelló
+- 🅿️ Santuari de Bellmunt
 - San Martín Sescorts
 - 🅿️ Tavertet
 
