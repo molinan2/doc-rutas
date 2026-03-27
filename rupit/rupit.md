@@ -42,22 +42,31 @@ Curvitas por el LLuçanès.
 
 ### Parte 3
 
-Miradores, carreteras y caminos escénicos.
+Miradores, carreteras y caminos escénicos. Notas: (1) La entrada a Tavertet suele estar restringida en sentido Tavertet-Rupit. (2)
 
 - ⛽️ Repsol
 - Sant Pere de Torelló
-- 🅿️ Santuari de Bellmunt
+- 🅿️ Santuari de Bellmunt¹
 - Coll de Bracons
 - ⛽️ Q8 Benzinera Olot
 - 🅿️ Mirador El Far
-- 🅿️ Rupit
-- 🖼️ Salt de Sallent (Opcional)
-- 🅿️ Mirador del Silenci
-- 🅿️ Vistes als cingles de l'Avenc
-- Tavertet
+- 🅿️ Rupit²
+- 🖼️ Salt de Sallent⁴ (Opcional)
+- 🅿️ Mirador del Silenci⁴
+- 🅿️ Vistes als cingles de l'Avenc⁴
+- 🅿️ Morro de l'Abella⁵
+- Tavertet⁴
 - L'Esquirol
 
 103 km (2h 54min)
+
+<p style='font-size: 0.75em; color: #808080'>
+    ¹ El Santuari está a 10 minutos andando del aparcamiento.<br>
+    ² El parking de Rupit es de pago (3€ todo el día o gratuito hasta 30min). Admite tarjeta y monedas, pero podría no admitir contactless.<br>
+    ³ El camino al Salt de Sallent es opcional, se hace andando y suma aproximadamente 1 hora.<br>
+    ⁴ La entrada a Tavertet podría estar cerrada con barrera en sentido Tavertet-Rupit.<br>
+    ⁵ El parking del Morro de l'Abella podría estar cerrado o ser de pago (3€ en monedas). En caso de estar abierto, podría tener un límite de 15 minutos.<br>
+</p>
 
 <a href='https://maps.app.goo.gl/HFGLA1h1XbWQcyee7'>
     <img src='./parte-3.png' height='300' style='border: 1px solid #808080;'>
@@ -84,12 +93,16 @@ Carretera directa a la Parte 5.
 Camino de Sau a Rupit (sólo si aún es de día).
 
 - L'Esquirol
-- Rupit
-- 🅿️ Mirador del Pantà de Sau
+- Rupit¹
+- 🅿️ Mirador del Pantà de Sau¹
 - Vic (sur)
 - ⛽️ Esclatoil Malla
 
 56 km (1h 37min)
+
+<p style='font-size: 0.75em; color: #808080'>
+    ¹ El Camí de Rupit a Sau es estrecho y exigente. Podría tener suciedad, ramas, barro y asfalto irregular. Debido a su naturaleza boscosa, no es asconsejable en malas condiciones climáticas o con poca luz.
+</p>
 
 <a href='https://maps.app.goo.gl/G1Fj36kQp36cGxzm7'>
     <img src='./parte-4b.png' height='300' style='border: 1px solid #808080;'>
