@@ -2,8 +2,8 @@
 
 Ruta circular centrada en la zona de Rupit y sus alrededores escénicos. Se inicia con curvas, recorre caminos escénicos y miradores, y termina con curvas. El tiempo no incluye las posibles paradas.
 
-320 km (7h 29min)<br>
-349 km (8h 40min) (Opción B)
+348 km (8h)<br>
+348 km (8h 35min) (Opción B)
 
 ### Parte 1
 
@@ -15,7 +15,7 @@ Calentamiento por curvitas y almuerzo.
 - Navarcles
 - 🍔 Calders (El Racó del Pou)
 
-43 km (1h)
+43 km (59min)
 
 <a href='https://maps.app.goo.gl/F6dDW1gcvHp6eHoU7'>
     <img src='./parte-1.png' height='300' style='border: 1px solid #808080;'>
@@ -42,7 +42,7 @@ Curvitas por el LLuçanès.
 
 ### Parte 3
 
-Miradores, carreteras estrechas y caminos escénicos. Notas: (1) La entrada a Tavertet suele estar restringida en sentido Tavertet-Rupit. (2)
+Miradores, carreteras estrechas y caminos escénicos. Parada en Rupit para descansar, visitar el pueblo y tomar algo (sin reserva).
 
 - ⛽️ Repsol
 - Sant Pere de Torelló
@@ -50,58 +50,58 @@ Miradores, carreteras estrechas y caminos escénicos. Notas: (1) La entrada a Ta
 - Coll de Bracons
 - ⛽️ Q8 Benzinera Olot
 - 🅿️ Mirador El Far
-- 🅿️ Rupit²
-- 🖼️ Salt de Sallent⁴ (Opcional)
-- 🅿️ Mirador del Silenci⁴
-- 🅿️ Vistes als cingles de l'Avenc⁴
-- 🅿️ Morro de l'Abella⁵
-- Tavertet⁴
 - L'Esquirol
+- 🅿️ Morro de l'Abella²
+- Tavertet³
+- 🅿️ Vistes als cingles de l'Avenc³
+- 🅿️ Mirador del Silenci³
+- 🏰 Rupit⁴
+- 🖼️ Salt de Sallent⁵ (Opcional)
 
-103 km (2h 54min)
+116 km (3h 6min)
 
 <p style='font-size: 0.75em; color: #808080'>
     ¹ El Santuari está a 10 minutos andando del aparcamiento.<br>
-    ² El parking de Rupit es de pago (3€ todo el día o gratuito hasta 30min). Admite tarjeta y monedas, pero podría no admitir contactless.<br>
-    ³ El camino al Salt de Sallent es opcional, se hace andando y suma aproximadamente 1 hora.<br>
-    ⁴ La entrada a Tavertet podría estar cerrada con barrera en sentido Tavertet-Rupit.<br>
-    ⁵ El parking del Morro de l'Abella podría estar cerrado o ser de pago (3€ en monedas). En caso de estar abierto, podría tener un límite de 15 minutos.<br>
+    ² El parking del Morro de l'Abella podría estar cerrado o ser de pago (3€ en monedas). En caso de estar abierto, podría tener un límite de 15 minutos.<br>
+    ³ La entrada a Tavertet podría estar cerrada con barrera en sentido Tavertet-Rupit.<br>
+    ⁴ El parking de Rupit es de pago (3€ todo el día o gratuito hasta 30min). Admite tarjeta y monedas, pero podría no admitir contactless.<br>
+    ⁵ El camino al Salt de Sallent es opcional, se hace andando y suma aproximadamente 1 hora.<br>
 </p>
 
-<a href='https://maps.app.goo.gl/HFGLA1h1XbWQcyee7'>
+<a href='https://maps.app.goo.gl/LqoSjzLmawfzXBJA8'>
     <img src='./parte-3.png' height='300' style='border: 1px solid #808080;'>
 </a>
 
 ### Parte 4
 
-#### Opción A: Salida tranquila
+#### Opción A: Salida directa
 
 Carretera directa a la Parte 5.
 
+- 🅿️ Rupit
 - L'Esquirol
 - Vic
 - ⛽️ Esclatoil Malla
 
-27 km (26min)
+42 km (46min)
 
-<a href='https://maps.app.goo.gl/yt4FDUUdfM7SHdDL9'>
+<a href='https://maps.app.goo.gl/vtp9fuwLScNgsLAJA'>
     <img src='./parte-4a.png' height='300' style='border: 1px solid #808080;'>
 </a>
 
 #### Opción B: Salida escénica
 
-Camino de Sau a Rupit (sólo si aún es de día).
+Camí de Rupit a Sau.
 
-- L'Esquirol
-- Rupit¹
+- 🅿️ Rupit
 - 🅿️ Mirador del Pantà de Sau¹
 - Vic (sur)
 - ⛽️ Esclatoil Malla
 
-56 km (1h 37min)
+42 km (1h 20min)
 
 <p style='font-size: 0.75em; color: #808080'>
-    ¹ El Camí de Rupit a Sau es estrecho y exigente. Podría tener suciedad, ramas, barro y asfalto irregular. Debido a su naturaleza boscosa, no es asconsejable en malas condiciones climáticas o con poca luz.
+    ¹ El Camí de Rupit a Sau es boscoso, estrecho y exigente, con curvas cerradas y grandes pendientes. Está asfaltado pero podría presentar desperfectos, gravilla, barro, ramas, etc. Además, el sentido Rupit-Sau es en bajada. No es asconsejable hacerlo en malas condiciones climáticas o con poca luz.
 </p>
 
 <a href='https://maps.app.goo.gl/G1Fj36kQp36cGxzm7'>
