@@ -1,6 +1,6 @@
 # Rupit
 
-Ruta circular centrada en la zona de Rupit y sus alrededores escénicos. Se inicia con curvas, recorre caminos escénicos y miradores, y termina con curvas. El tiempo no incluye las posibles paradas.
+Ruta circular centrada en la zona de Rupit y sus alrededores escénicos. Se inicia con curvas para calentar motores (partes 1 y 2); recorre caminos escénicos, miradores y visita Rupit para descansar y tomar algo (parte 3); termina con curvitas de postre opcional (partes 4 y 5). El tiempo no incluye las posibles paradas.
 
 348 km (8h)<br>
 348 km (8h 35min) (Opción B)
