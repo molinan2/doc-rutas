@@ -2,8 +2,8 @@
 
 Ruta circular centrada en la zona de Rupit y sus alrededores escénicos. Se inicia con curvas, recorre caminos escénicos y miradores, y termina con curvas. El tiempo no incluye las posibles paradas.
 
-Total A: 320 km (7h 29min)<br>
-Total B: 349 km (8h 40min)
+320 km (7h 29min)<br>
+349 km (8h 40min) (Opción B)
 
 ### Parte 1
 
@@ -42,7 +42,7 @@ Curvitas por el LLuçanès.
 
 ### Parte 3
 
-Miradores, carreteras y caminos escénicos. Notas: (1) La entrada a Tavertet suele estar restringida en sentido Tavertet-Rupit. (2)
+Miradores, carreteras estrechas y caminos escénicos. Notas: (1) La entrada a Tavertet suele estar restringida en sentido Tavertet-Rupit. (2)
 
 - ⛽️ Repsol
 - Sant Pere de Torelló
