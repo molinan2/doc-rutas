@@ -1,93 +1,113 @@
 # Rupit
 
-Ruta centrada en la zona de Rupit y alrededores: Sau, Tavertet y Bracons. La ruta comienza por Sant Llorenç Savall y San Miquel del Fai, para llegar a la zona de Rupit.
+Ruta circular centrada en la zona de Rupit y sus alrededores escénicos. Se inicia con curvas, recorre caminos escénicos y miradores, y termina con curvas. El tiempo no incluye las posibles paradas.
 
-Total: 203 km (4h 30min) sin las partes opcionales.
+Total A: 320 km (7h 29min)<br>
+Total B: 349 km (8h 40min)
 
 ### Parte 1
 
-Ruta: 53 km (1h 25min)
-[https://maps.app.goo.gl/2X2woED5DZTHCrR69](https://maps.app.goo.gl/2X2woED5DZTHCrR69)
+Calentamiento por curvitas y almuerzo.
 
-- 🏁 Àrea de Serveis Temps Lliure Q8 (Terrassa)
-- Castellar del Vallès
-- Sant Llorenç Savall
-- 🅿️ Sant Miquel del Fai
-- 🍔 El Revolt (Sant Quirze Safaja)
+- ⛽️ Esclatoil Terrassa
+- Matadepera
+- Talamanca
+- Navarcles
+- 🍔 Calders (El Racó del Pou)
 
-Parada opcional en Sant Miquel del Fai para visitar el monasterio y/o sus alrededores. Parking oficial con reserva, cerrado hasta 20 de Marzo. Hay espacio para aparcar fuera en gravilla, si los coches lo permiten. Carretera estrecha y muy bonita.
+43 km (1h)
 
-<img src='./parte-1.png' width='400'>
+<a href='https://maps.app.goo.gl/F6dDW1gcvHp6eHoU7'>
+    <img src='./parte-1.png' height='300' style='border: 1px solid #808080;'>
+</a>
 
 ### Parte 2
 
-Ruta: 23 km (26 min)
-[https://maps.app.goo.gl/PN2Gsphv4ihNYGVY6](https://maps.app.goo.gl/PN2Gsphv4ihNYGVY6)
+Curvitas por el LLuçanès.
 
-- 🍔 Restaurant El Revolt
-- Centelles
-- ⛽️ Esclat
+- 🍔 Calders (El Racó del Pou)
+- Moià
+- L'Estany
+- Oristà
+- Sant Bartomeu del Grau
+- Sant Boi del Lluçanès
+- Sant Hipòlit de Voltregà
+- ⛽️ Repsol
 
-Travesía breve hasta Esclat, donde repostamos todos para iniciar la Parte larga de la ruta.
+77 km (1h 36min)
 
-<img src='./parte-2.png' width='400'>
+<a href='https://maps.app.goo.gl/uWSvBLkhv8X6d5NV6'>
+    <img src='./parte-2.png' height='300' style='border: 1px solid #808080;'>
+</a>
 
 ### Parte 3
 
-Ruta: 139 km (3h 18min)
-[https://maps.app.goo.gl/BdxwTrr4gTYoJxSy6](https://maps.app.goo.gl/BdxwTrr4gTYoJxSy6)
+Miradores, carreteras y caminos escénicos.
 
-- ⛽️ Esclat
-- San Martín Sescorts
-- 🅿️ Rupit
-- 🅿️ Mirador El Far
-- Sant Esteve d'en Bas
-- Collada de Bracons
+- ⛽️ Repsol
+- Sant Pere de Torelló
 - 🅿️ Santuari de Bellmunt
-- San Martín Sescorts
-- 🅿️ Tavertet
+- Coll de Bracons
+- ⛽️ Q8 Benzinera Olot
+- 🅿️ Mirador El Far
+- 🅿️ Rupit
+- 🖼️ Salt de Sallent (Opcional)
+- 🅿️ Mirador del Silenci
+- 🅿️ Vistes als cingles de l'Avenc
+- Tavertet
+- L'Esquirol
 
-Parada opcional en Rupit (parking de pago) para ver el pueblo y su puente colgante. Parada opcional en Mirador El Far. Parada opcional en el Santuari de Bellmunt. Parada opcional (parking de pago) en el mirador de Tavertet para terminar la ruta.
+103 km (2h 54min)
 
-<img src='./parte-3.png' width='400'>
+<a href='https://maps.app.goo.gl/HFGLA1h1XbWQcyee7'>
+    <img src='./parte-3.png' height='300' style='border: 1px solid #808080;'>
+</a>
 
----
+### Parte 4
 
-### Parte 4 (Opcional)
+#### Opción A: Salida tranquila
 
-Ruta: 53 km (1h 40min)
-[https://maps.app.goo.gl/qqpW8yHWmj6N2sFs5](https://maps.app.goo.gl/qqpW8yHWmj6N2sFs5)
+Carretera directa a la Parte 5.
 
-- 🅿️ Tavertet
+- L'Esquirol
+- Vic
+- ⛽️ Esclatoil Malla
+
+27 km (26min)
+
+<a href='https://maps.app.goo.gl/yt4FDUUdfM7SHdDL9'>
+    <img src='./parte-4a.png' height='300' style='border: 1px solid #808080;'>
+</a>
+
+#### Opción B: Salida escénica
+
+Camino de Sau a Rupit (sólo si aún es de día).
+
+- L'Esquirol
 - Rupit
 - 🅿️ Mirador del Pantà de Sau
-- Folgueroles
-- ⛽️ Esclat
+- Vic (sur)
+- ⛽️ Esclatoil Malla
 
-Sólo para aventureros/as. Carretera estrecha y boscosa, no recomendable de noche ni en solitario. Salida de Tavertet por camino asfaltado, y continuación por el camino de Rupit a Sau.
+56 km (1h 37min)
 
-<img src='./parte-4.png' width='400'>
+<a href='https://maps.app.goo.gl/G1Fj36kQp36cGxzm7'>
+    <img src='./parte-4b.png' height='300' style='border: 1px solid #808080;'>
+</a>
 
----
+### Parte 5
 
-### Parte 3 (Alternativa)
+Postre por curvitas.
 
-Ruta: 131 km (3h 38min)
-[https://maps.app.goo.gl/uqNV995byocxDQGE9](https://maps.app.goo.gl/uqNV995byocxDQGE9)
+- ⛽️ Esclatoil Malla
+- Centelles
+- Sant Feliu de Codines
+- Sant Llorenç Savall
+- Castellar del Vallès
+- ⛽️ Àrea de Serveis Temps Lliure Q8
 
-- ⛽️ Esclat
-- Folgueroles
-- 🅿️ Mirador del Pantà de Sau
-- 🅿️ Rupit
-- 🅿️ Mirador El Far
-- Sant Esteve d'en Bas
-- Collada de Bracons
-- 🅿️ Santuari de Bellmunt
-- San Martín Sescorts
-- 🅿️ Tavertet
+70 km (1h 33min)
 
-Entrada a Rupit por la carretera de Sau (rodeada de entorno natural). Parada opcional en el mirador del Pantà de Sau. Continuación por el camino de Sau a Rupit (carretera estrecha y boscosa, sólo recomendable de día y en grupo). Parada opcional en Rupit (parking de pago) para ver el pueblo y su puente colgante. Parada opcional en Mirador El Far. Parada opcional (parking de pago) en el mirador de Tavertet para terminar la ruta.
-
-Hace el camino de la "Parte 4 (Opcional)" a la ida (más recomendable) y deja atrás un par de tramos entre Tavertet y Rupit.
-
-<img src="./parte-3-alt.png" width='400'>
+<a href='https://maps.app.goo.gl/rSyCBda1vaJKbN7WA'>
+    <img src='./parte-5.png' height='300' style='border: 1px solid #808080;'>
+</a>
