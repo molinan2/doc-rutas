@@ -6,6 +6,8 @@ Total: 106 km (~2h 18min sin contar paradas).
 
 # Parte 1 (única)
 
+Ruta: 106 kmk (2h 18min) https://kurv.gr/eSTyL
+
 - ⛽️ bonÀrea (Olesa de Montserrat)
 - Vacarisses
 - Monistrol de Montserrat
