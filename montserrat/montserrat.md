@@ -2,7 +2,7 @@
 
 Paseíto circular por Montserrat y algunos puntos de interés.
 
-Ruta: ~106 km (~2h 18min sin contar las paradas)
+Ruta: 106 km (~2h 18min sin contar paradas)
 
 - ⛽️ bonÀrea (Olesa de Montserrat)
 - Vacarisses
