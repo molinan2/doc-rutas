@@ -23,6 +23,8 @@ Ruta: 106 km (2h 18min sin contar paradas) https://kurv.gr/eSTyL
 - 🅿️ Monestir de Montserrat
 - ⛽️ Repsol (Monistrol de Montserrat)
 
+La Parte 1 es una visita escénica alrededor de Montserrat con varias paradas planeadas en puntos de interés y miradores.
+
 Comienzo desde Olesa de Montserrat, pasando por Vacarisses, recorriendo carreteras locales con vistas a Montserrat. Inicio clásico de la subida por Monistrol. Descenso por Coll del Bruc hasta Castellolí y vuelta hasta Ca la Iaia. Salida hacia Marganell y Castellbell i el Vilar para subir hasta el mismo Monasterio de Montserrat.
 
 <img src='./parte-1.png' width='400'>
@@ -47,6 +49,8 @@ Ruta: 207 km (4h 11min) https://kurv.gr/GZqxw
 - 🅿️ Monestir de Montserrat
 - ⛽️ Repsol (Monistrol de Montserrat)
 
-<img src='./parte-2.png' width='400'>
+<img src='./parte-2-overlay.png' width='400'>
 
-Comiennzo desde Monistrol, saliendo por Rellinars hasta la Q8 de Terrassa y clásica subida por Matadepera/Talamanca hasta Navarcles. Ruta Avinyó-Balsareny-Súria-Salo hasta Calaf, parando opcionalmente a tomar algo y repostar. Finalmente, bajada por la carretera de los molinos y subida de nuevo al monasterio de Montserrat por Coll del Bruc.
+La Parte 2 es una ruta más continua, sin paradas planeadas aparte de un tentenpié opcional.
+
+Comienzo desde Monistrol, saliendo por Rellinars hasta la Q8 de Terrassa y clásica subida por Matadepera/Talamanca hasta Navarcles. Ruta Avinyó-Balsareny-Súria-Salo hasta Calaf, parando opcionalmente a tomar algo y repostar. Finalmente, bajada por la carretera de los molinos y subida de nuevo al monasterio de Montserrat por Coll del Bruc.
