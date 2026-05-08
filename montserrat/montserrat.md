@@ -49,7 +49,7 @@ Ruta: 207 km (4h 11min) https://kurv.gr/GZqxw
 - 🅿️ Monestir de Montserrat
 - ⛽️ Repsol (Monistrol de Montserrat)
 
-<img src='./parte-2-overlay.png?1' width='400'>
+<img src='./parte-2-overlay.png' width='400'>
 
 La Parte 2 es una ruta más continua, sin paradas planeadas aparte de un tentenpié opcional.
 
