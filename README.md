@@ -1,10 +1,10 @@
 # Rutas
 
-Rutas en moto con enlaces a Google Maps.
+Rutas en moto con enlaces a Google Maps / Kurviger.
 
-- [Rupit](./rupit/rupit.md). Zona de Rupit y alrededores escénicos.
-- [Montseny](./montseny/montseny.md). Zona del Montseny desde Sant Llorenç Savall.
-- [Montseny (Extendida)](./montseny/montseny-ext.md). Zona del Montseny desde Sant Llorenç Savall, ampliada con Sant Hilari y Arbúcies.
-- [Cardona](./cardona/cardona.md). Llosa del Cavall desde Igualada, acabando en el Castell de Cardona.
-- [Llosa](./llosa/llosa.md). Sant Ponç, Llosa del Cavall y Baells desde Igualada.
-- [Montserrat](./montserrat/montserrat.md). Paseo circular por Montserrat y algunos puntos de interés.
+- [Rupit](./src/rupit/rupit.md). Zona de Rupit y alrededores escénicos.
+- [Montseny](./src/montseny/montseny.md). Zona del Montseny desde Sant Llorenç Savall.
+- [Montseny (Extendida)](./src/montseny/montseny-ext.md). Zona del Montseny desde Sant Llorenç Savall, ampliada con Sant Hilari y Arbúcies.
+- [Cardona](./src/cardona/cardona.md). Llosa del Cavall desde Igualada, acabando en el Castell de Cardona.
+- [Llosa](./src/llosa/llosa.md). Sant Ponç, Llosa del Cavall y Baells desde Igualada.
+- [Montserrat](./src/montserrat/montserrat.md). Paseo circular por Montserrat y algunos puntos de interés.
