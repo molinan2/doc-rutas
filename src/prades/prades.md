@@ -2,32 +2,34 @@
 
 Ruta casi circular por las Muntanyes de Prades, con paradas para reagrupar, gasolina y café. Final opcional en la playa de Salou.
 
-# Parte 1
+Total: 253 km (5h 10min)
+
+### Parte 1
 
 Ruta: 81 km (1h 26min)
-[https://maps.app.goo.gl/zawtbATeC4gLFwC76](https://maps.app.goo.gl/zawtbATeC4gLFwC76)
+[https://maps.app.goo.gl/PpPxiGjFh1AZ1Tid9](https://maps.app.goo.gl/PpPxiGjFh1AZ1Tid9)
 
-- ⛽️ Repsol Sitges
+- ⛽️ Repsol (Sitges)
 - Pantà del Foix
-- ⛽️ Tamoil L'Arboç
+- 🅿️ Tamoil (L'Arboç)
 - Valldossera
 - Santes Creus
-- 🍔 Restaurante Les 4 Carreteres
+- 🍔 Restaurante Les 4 Carreteres (Vila-rodona)
 
 Calentando motores por el Pantà del Foix y la zona de Valldossera para ganarnos el desayuno.
 
 <img src='./parte-1.png' width='400'>
 
-# Parte 2
+### Parte 2
 
 Ruta: 172 km (3h 44min)
 [https://maps.app.goo.gl/A6Rt5y9sinyxEuXk8](https://maps.app.goo.gl/A6Rt5y9sinyxEuXk8)
 
-- ⛽️ Repsol Les 4 Carreteres
+- ⛽️ Repsol (Vila-rodona)
 - Alcover
 - Capafonts
 - Prades
-- ⛽️ Repsol Cornudella de Montsant
+- ⛽️ Repsol (Cornudella de Montsant)
 - Poboleda
 - La Vilella Baixa
 - ☕️ Café Flor de Maig (Gratallops)
