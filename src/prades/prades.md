@@ -26,7 +26,7 @@ Ruta: 172 km (3h 44min)
 [https://maps.app.goo.gl/A6Rt5y9sinyxEuXk8](https://maps.app.goo.gl/A6Rt5y9sinyxEuXk8)
 
 - ⛽️ Repsol (Vila-rodona)
-- Alcover*
+- Alcover¹
 - Capafonts
 - Prades
 - ⛽️ Repsol (Cornudella de Montsant)
@@ -42,6 +42,6 @@ Ruta: 172 km (3h 44min)
 
 Vuelta por algunas de las reviradas carreteras de las Muntanyes de Prades. Terminamos en L'Albiol y, opcionalmente, bajamos hasta Salou a pasar un rato agradable en la playa.
 
-\* _Para cruzar alcover, es recomendable rodearla siguiendo [esta ruta](./alcover.png). No figura en la ruta principal porque se llegó al tope de 10 puntos intermedios._
+¹ _Para cruzar Alcover, es recomendable rodearla siguiendo [esta ruta](./alcover.png). No figura en la ruta principal porque se llegó al tope de puntos intermedios._
 
 <img src='./parte-2.png' width='400'>
