@@ -18,7 +18,7 @@ Ruta: 81 km (1h 26min)
 
 Calentando motores por el Pantà del Foix y la zona de Valldossera para ganarnos el desayuno.
 
-<img src='./parte-1.png' width='400'>
+<img src='./parte1.png' width='400'>
 
 ### Parte 2
 
@@ -44,4 +44,4 @@ Vuelta por algunas de las reviradas carreteras de las Muntanyes de Prades. Termi
 
 ¹ _Para cruzar Alcover, es recomendable rodearla siguiendo [esta ruta](./alcover.png). No figura en la ruta principal porque se llegó al tope de puntos intermedios._
 
-<img src='./parte-2.png' width='400'>
+<img src='./parte2.png' width='400'>
